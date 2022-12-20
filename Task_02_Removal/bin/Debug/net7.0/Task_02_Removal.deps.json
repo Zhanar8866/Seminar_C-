@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Task_02_Removal/1.0.0": {
+        "runtime": {
+          "Task_02_Removal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task_02_Removal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

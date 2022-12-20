@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\bin\Debug\net7.0\Task_02_Removal.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\bin\Debug\net7.0\Task_02_Removal.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\bin\Debug\net7.0\Task_02_Removal.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\bin\Debug\net7.0\Task_02_Removal.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\bin\Debug\net7.0\Task_02_Removal.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\obj\Debug\net7.0\Task_02_Removal.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\obj\Debug\net7.0\Task_02_Removal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\obj\Debug\net7.0\Task_02_Removal.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\obj\Debug\net7.0\Task_02_Removal.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\obj\Debug\net7.0\Task_02_Removal.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\obj\Debug\net7.0\Task_02_Removal.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\obj\Debug\net7.0\refint\Task_02_Removal.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\obj\Debug\net7.0\Task_02_Removal.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\obj\Debug\net7.0\Task_02_Removal.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_02_Removal\obj\Debug\net7.0\ref\Task_02_Removal.dll
