@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\bin\Debug\net7.0\Task_01_Comparison.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\bin\Debug\net7.0\Task_01_Comparison.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\bin\Debug\net7.0\Task_01_Comparison.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\bin\Debug\net7.0\Task_01_Comparison.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\bin\Debug\net7.0\Task_01_Comparison.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\obj\Debug\net7.0\Task_01_Comparison.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\obj\Debug\net7.0\Task_01_Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\obj\Debug\net7.0\Task_01_Comparison.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\obj\Debug\net7.0\Task_01_Comparison.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\obj\Debug\net7.0\Task_01_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\obj\Debug\net7.0\Task_01_Comparison.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\obj\Debug\net7.0\refint\Task_01_Comparison.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\obj\Debug\net7.0\Task_01_Comparison.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\obj\Debug\net7.0\Task_01_Comparison.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_01_Comparison\obj\Debug\net7.0\ref\Task_01_Comparison.dll
