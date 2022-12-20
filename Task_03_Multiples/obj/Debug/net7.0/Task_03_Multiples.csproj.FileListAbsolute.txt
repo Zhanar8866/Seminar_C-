@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\obj\Debug\net7.0\Task_03_Multiples.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\obj\Debug\net7.0\Task_03_Multiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\obj\Debug\net7.0\Task_03_Multiples.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\obj\Debug\net7.0\Task_03_Multiples.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\obj\Debug\net7.0\Task_03_Multiples.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\bin\Debug\net7.0\Task_03_Multiples.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\bin\Debug\net7.0\Task_03_Multiples.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\bin\Debug\net7.0\Task_03_Multiples.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\bin\Debug\net7.0\Task_03_Multiples.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\bin\Debug\net7.0\Task_03_Multiples.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\obj\Debug\net7.0\Task_03_Multiples.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\obj\Debug\net7.0\refint\Task_03_Multiples.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\obj\Debug\net7.0\Task_03_Multiples.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\obj\Debug\net7.0\Task_03_Multiples.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\Tasks\Task_03_Multiples\obj\Debug\net7.0\ref\Task_03_Multiples.dll
